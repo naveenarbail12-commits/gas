@@ -1,0 +1,6 @@
+{
+  "name": "Rural Gas Vehicle Alert & Tracking",
+  "description": "Smart LPG delivery tracking, village arrival alerts, and schedule notifications designed for rural communities and gas agencies with Kannada-first support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
